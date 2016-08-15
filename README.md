@@ -4,4 +4,4 @@
 
 Использовался фреймворк Laravel5
 
-3-я задача в файле MathController.php строки: 35-51
+3-я задача в файле MathController.php строки: 35-56
